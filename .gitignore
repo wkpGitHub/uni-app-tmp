@@ -1,0 +1,15 @@
+
+# macOS
+.DS_Store
+node_modules
+.hbuilderx/
+/unpackage/cache
+/unpackage/debug
+/unpackage/release
+/unpackage/res
+/unpackage/resources
+/unpackage/dist/dev
+/unpackage/dist/build/.automator
+/unpackage/dist/build/app-plus
+# /unpackage 
+# ! /unpackage/dist
